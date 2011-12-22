@@ -3,7 +3,7 @@
 . utilslib.sh
 
 basedir=/src/libxml2
-url=ftp://xmlsoft.org/libxml2
+url=http://xmlsoft.org/sources
 version=2.7.8
 revision=0
 tarball=libxml2-${version}.tar.gz
